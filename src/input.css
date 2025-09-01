@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* .hamburger {
+    cursor: pointer;
+} */
+
+.hamburger-line {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: block;
+  height: 0.3rem;
+  width: 3rem;
+  background-color: black;
+  border-radius: 1rem;
+}
+
